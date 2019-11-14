@@ -1,11 +1,18 @@
 body {
-    background-color: #abedd8;
+    background-color: #eaf6f6;
 }
 
 h2 {
-    color: rgb(94, 146, 146);
+    color: #4dd599;
 }
 
 h1 {
-    color: rgb(94, 146, 146);
+    color: #4dd599;
+}
+
+hr {
+    width: 10%;
+    border-style: dotted;
+    border-width: 10px;
+    border-bottom: none;
 }
